@@ -50,7 +50,7 @@ bot.on("message", (message) => {
     } else if (command == 'me') {
         message.channel.send('You are my new friend');
     } else if (command == 'motivation') {
-        message.channel.send('I think u dont need any motivation because u are some one whose existance is a motivation for lot people');
+        message.channel.send('I think u dont need any motivation because u are some one whose existance is a motivation for lots of people');
     } else if (command == 'friend') {
         message.channel.send('i am your friend');
     } else if (command == 'age') {
