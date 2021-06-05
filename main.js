@@ -54,7 +54,7 @@ bot.on("message", (message) => {
     } else if (command == 'friend') {
         message.channel.send('i am your friend');
     } else if (command == 'age') {
-        message.channel.send('my am forever child');
+        message.channel.send('I am forever child');
     } else if (command == 'fun') {
         message.channel.send('fun is important for living a happy life');
     } else if (command == 'Make me happy') {
